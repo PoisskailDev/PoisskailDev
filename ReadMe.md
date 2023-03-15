@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>       └📂 Ryle Games<br>       └🤡 ClownShield
+🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>        └🤡 ClownShield
 
 
 ## 🌐 Socials:
