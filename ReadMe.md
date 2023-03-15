@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>        └🤡 ClownShield
-💻 Learning CyberSecurity and Ethical Hacking
+🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>        └🤡 ClownShield<br><br>
+📚 Learning CyberSecurity and Ethical Hacking
 
 
 ## 🌐 Socials:
