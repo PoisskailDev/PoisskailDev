@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>        └🤡 ClownShield
+💻 Learning CyberSecurity and Ethical Hacking
 
 
 ## 🌐 Socials:
@@ -12,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Poisskail&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poisskail&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Poisskail&icon=5&color=0)](https://visitcount.itsvg.in)
