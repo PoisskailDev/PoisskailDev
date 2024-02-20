@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌟 Specialize in fivem development<br><br>💻 Currents Projects :<br>        └☔ SecurGate FiveM Anticheat<br><br>
-📚 Learning CyberSecurity and Ethical Hacking
+📚 Learning Reverse Engineering
 
 
 ## 🌐 Socials:
