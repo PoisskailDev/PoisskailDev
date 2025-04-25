@@ -2,7 +2,7 @@
 #### A passionate about everything related to security
 
 ### 🔒 Currently Working On : [SecurGate](https://discord.gg/KXQgtnG4)  
-#### 💭 Add me on Discord : [HERE](https://discord.com/channels/801163860131577926)  
+#### 💭 Add me on Discord : [HERE](https://discord.com/users/801163860131577926)  
 
 ---
 
