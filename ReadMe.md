@@ -1,11 +1,12 @@
 # Hello World!, I'm Poisskail, a Backend Developer 👋🏼:
-#### A passionate about everything related to security"
+#### A passionate about everything related to security
 
 ### 🔒 Currently Working On : [SecurGate](https://discord.gg/KXQgtnG4)  
+#### 💭 Add me on Discord : [HERE](https://discord.com/channels/801163860131577926)  
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 Technologies & Languages
 
 ### Languages:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -17,11 +18,11 @@
 
 ---
 
-## 🛠 Reverse Engineering
+## 🛠 Skills
 
-- **Reverse Engineering**:Currently learning (ctf..).
 - **Gaming**: Reverse-engineering game education only.
-
+- **Anticheats**: Reverse-engineering cheats to detect them instant.
+- **Pentesting**: Currently learning.
 
 ---
 
